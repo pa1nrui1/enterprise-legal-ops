@@ -1,0 +1,37 @@
+{
+  "name": "enterprise-legal-ops",
+  "version": "0.1.0",
+  "description": "Local legal operations skill for small and medium-sized enterprises: contracts, HR, seals, licenses, governance, capital contributions, reminders, and local queries.",
+  "author": {
+    "name": "Enterprise Legal Ops Contributors"
+  },
+  "repository": "https://github.com/pa1nrui1/enterprise-legal-ops",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "enterprise-legal",
+    "legal-ops",
+    "china-law",
+    "codex",
+    "skills",
+    "contracts",
+    "hr",
+    "compliance"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Enterprise Legal Ops",
+    "shortDescription": "中小企业本地法务运营、台账与提醒",
+    "longDescription": "A local-first enterprise legal operations skill for SMEs, covering contracts, HR legal operations, seals, licenses, articles/governance authority, shareholder capital contributions, reminders, Feishu calendar reminder sync, and local natural-language queries.",
+    "developerName": "Enterprise Legal Ops Contributors",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/pa1nrui1/enterprise-legal-ops",
+    "defaultPrompt": [
+      "企业法务运营 帮我初始化企业内部法务工作区",
+      "企业法务运营 帮我导入员工花名册并生成提醒",
+      "企业法务运营 帮我查询下个月有哪些合同到期"
+    ],
+    "brandColor": "#0f766e"
+  }
+}

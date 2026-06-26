@@ -1,0 +1,6 @@
+interface:
+  display_name: "企业法务运营"
+  short_description: "中小企业本地法务运营、台账与提醒"
+  default_prompt: "Use $enterprise-legal-ops to initialize a company legal workspace and manage internal contracts, HR, seals, licenses, reminders, and local queries."
+policy:
+  allow_implicit_invocation: true
