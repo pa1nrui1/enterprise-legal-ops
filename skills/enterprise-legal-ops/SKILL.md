@@ -84,7 +84,6 @@ Do not end with only “done”.
 
 ## Key Resources
 
-- Product requirements: `../../docs/prd/`
 - Workspace/data standard: `references/workspace-data-standard.md`
 - Strict review: `references/strict-review.md`
 - Contract module: `references/contracts.md`
