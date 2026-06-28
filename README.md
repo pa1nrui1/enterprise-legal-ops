@@ -17,6 +17,8 @@
 
 **潘睿律师** - 热衷于将 AI 技术应用于法律实务。
 
+个人官网：https://www.panrui.xyz/
+
 欢迎添加微信交流（请注明来意）：
 
 <div align="center">
@@ -26,6 +28,8 @@
 ## 关于项目
 
 **Enterprise Legal Ops** 是一个面向中小企业内部使用的本地法务运营 Skill。它不是律师顾问版，也不输出正式法律意见书，而是帮助企业把分散的合同、员工、制度、公章、证照、章程、授权、股东出资和提醒事项，整理为本地台账、Markdown 记录、来源边界和可追踪提醒。
+
+项目页：https://www.panrui.xyz/projects/enterprise-legal-ops/
 
 Agent 在本项目中不会被鼓励直接给出结论，而是被要求按企业内部管理习惯推进：
 
